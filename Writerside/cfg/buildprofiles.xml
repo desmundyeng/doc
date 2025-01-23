@@ -6,6 +6,7 @@
     <variables></variables>
     <build-profile instance="in">
         <variables>
+            <primary-color>emerald</primary-color>
             <noindex-content>true</noindex-content>
             <algolia-id>5N7B1KHAO7</algolia-id>
             <algolia-index>prod_doc</algolia-index>

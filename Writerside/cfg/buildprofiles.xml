@@ -6,7 +6,12 @@
     <variables></variables>
     <build-profile instance="in">
         <variables>
+            <primary-color>emerald</primary-color>
             <noindex-content>true</noindex-content>
+            <algolia-id>5N7B1KHAO7</algolia-id>
+            <algolia-index>prod_doc</algolia-index>
+            <algolia-api-key>4aaf11624d82471c5cb1f6d42d04336a</algolia-api-key>
+            <algolia-show-logo>true</algolia-show-logo>
         </variables>
     </build-profile>
 

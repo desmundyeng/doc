@@ -6,13 +6,23 @@
     <variables></variables>
     <build-profile instance="in">
         <variables>
-            <primary-color>emerald</primary-color>
+            <color-preset>soft</color-preset>
+            <primary-color>deep-ocean</primary-color>
+            <header-logo>logo.png</header-logo>
+            <custom-favicons>favicon.png</custom-favicons>
+
             <noindex-content>true</noindex-content>
             <algolia-id>5N7B1KHAO7</algolia-id>
             <algolia-index>prod_doc</algolia-index>
             <algolia-api-key>4aaf11624d82471c5cb1f6d42d04336a</algolia-api-key>
             <algolia-show-logo>true</algolia-show-logo>
         </variables>
+
+        <footer>
+            <social type="blog" href="https://desmundyeng.github.io/doc/"/>
+            <copyright>2025 George Kent (Malaysia) Berhad. All rights reserved.</copyright>
+            <link href="https://georgekent.net">Blog</link>
+        </footer>
     </build-profile>
 
 </buildprofiles>

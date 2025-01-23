@@ -21,8 +21,8 @@ flowchart LR
 ```mermaid
 graph TD
 subgraph IoT Devices
-NBIoT[Narrowband IoT (NB-IoT) Devices]
-wMBus[Wireless M-Bus (wMBus) Devices]
+    NBIoT[Narrowband IoT (NB-IoT) Devices]
+    wMBus[Wireless M-Bus (wMBus) Devices]
 end
 
     subgraph Intermediate Systems

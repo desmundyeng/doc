@@ -7,11 +7,8 @@ by smart meters in utility networks.
 ```mermaid
 flowchart LR
 %%{init:{'flowchart':{'nodeSpacing': 80, 'rankSpacing': 30}}}%%
-    subgraph Meters
-        direction LR
-        A[NB-IoT Devices]
-        B[wMBus Devices]
-    end
+    A[NB-IoT Devices]
+    B[wMBus Devices]
 
     A ---> C[Head-End System]
     B --> D[Gateway / Repeater / Mobile Reader] --> C

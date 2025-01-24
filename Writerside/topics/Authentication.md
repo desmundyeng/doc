@@ -7,9 +7,8 @@ data and features.
 
 The system supports the following login options:
 
-1. **Password-Based Login**
-2. **OTP-Based Login**
-
+<tabs>
+<tab title="Password-Based Login" id="tab-password-login-id">
 <procedure title="Password-Based Login" id="password-login-id">
    <p>
 Users can log in using their registered email along with a secure password. When a <a href="User-Management.md">user
@@ -17,8 +16,10 @@ is created</a>, the user will receive an e-mail with a random secure password an
    <step>Select <b>Login with OTP</b></step>
    <img src="password-based-login.png" alt="Alt text" width="300" thumbnail="true"/>
 </procedure>
+</tab>
 
 
+<tab title="OTP-Based Login" id="tab-otp-login-id">
 <procedure title="OTP-Based Login" id="otp-login-id">
    <p>
    An alternative to password-based login, this option uses a One-Time Password (OTP). The OTP is sent to the user's
@@ -32,6 +33,8 @@ is created</a>, the user will receive an e-mail with a random secure password an
    <step>Copy and paste the 4 digit <b>One-Time Password</b> to OTP field and click <b>Sign In</b></step>
    <img src="otp-based-login-otp.png" alt="Alt text" width="300" thumbnail="true"/>
 </procedure>
+</tab>
+</tabs>
 
 ## Password Rules
 

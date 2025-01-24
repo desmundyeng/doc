@@ -1,4 +1,4 @@
-name: Build documentation
+name: Build Knowledge Base
 
 on:
   push:
@@ -75,7 +75,7 @@ jobs:
           name: docs
           path: artifacts
 
-      - name: Test documentation
+      - name: Test Knowledge Base
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ env.INSTANCE }}

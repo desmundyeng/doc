@@ -15,4 +15,6 @@
 
     <secondary-label id="experimental" name="Experimental" color="purple">This is an experimental feature</secondary-label>
     <secondary-label id="2023.3" name="2023.3" color="blue">New in version 2023.3</secondary-label>
+
+    <secondary-label id="TODO" name="TODO" color="purple">TODO</secondary-label>
 </labels>

@@ -6,12 +6,32 @@
         <accepts>page.html</accepts>
     </rule>
     -->
-    <rule id="66806e5b">
-        <description>Created after removal of "Overview" from Documentation</description>
-        <accepts>MDMS-Overview.html</accepts>
-    </rule>
-    <rule id="543c7d77">
-        <description>Created after removal of "Introduction" from Documentation</description>
-        <accepts>Introduction.html</accepts>
+<!--    <rule id="66806e5b">-->
+<!--        <description>Created after removal of "Overview" from Knowledge Base</description>-->
+<!--        <accepts>MDMS-Overview.html</accepts>-->
+<!--    </rule>-->
+<!--    <rule id="543c7d77">-->
+<!--        <description>Created after removal of "Introduction" from Knowledge Base</description>-->
+<!--        <accepts>Introduction.html</accepts>-->
+<!--    </rule>-->
+<!--    <rule id="3db7c3d7">-->
+<!--        <description>Created after removal of "Components" from Knowledge Base</description>-->
+<!--        <accepts>Components.html</accepts>-->
+<!--    </rule>-->
+<!--    <rule id="2309c67d">-->
+<!--        <description>Created after removal of "Starter" from Knowledge Base</description>-->
+<!--        <accepts>starter.html</accepts>-->
+<!--    </rule>-->
+<!--    <rule id="46390454">-->
+<!--        <description>Created after removal of "Sumamry" from Knowledge Base</description>-->
+<!--        <accepts>Sumamry.html</accepts>-->
+<!--    </rule>-->
+<!--    <rule id="8117c7b">-->
+<!--        <description>Created after removal of "Introduction" from Knowledge Base</description>-->
+<!--        <accepts>Introduction.html</accepts>-->
+<!--    </rule>-->
+    <rule id="65006bd5">
+        <description>Created after removal of "Introduction" from Knowledge Base</description>
+        <accepts>MDMS-Introduction.html</accepts>
     </rule>
 </rules>

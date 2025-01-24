@@ -1,3 +1,3 @@
 # Work Order Management
 
-Start typing here...
+![workorder-flow](workorder-flow.png)

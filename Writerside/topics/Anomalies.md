@@ -1,3 +1,7 @@
 # Anomalies
+<secondary-label ref="TODO"/>
+TODO icon for alarm type, explanation
 
-Start typing here...
+### Anomaly List
+
+![anomaly.png](anomaly.png){ width="900" thumbnail="true"}

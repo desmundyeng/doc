@@ -36,6 +36,26 @@ is created</a>, the user will receive an e-mail with a random secure password an
 </tab>
 </tabs>
 
+## Change password
+
+<procedure title="" id="change-password-id">
+   <step>Tap on <b>Profile icon</b></step> 
+   <img src="auth_change_password.png" alt="Alt text" thumbnail="true"/>
+    <step>Key-in current and new password. Then, select <b>Update Password</b></step>
+   <img src="auth_change_password_details.png" alt="Alt text" width="300" thumbnail="true"/>
+</procedure>
+
+## Forgot password
+
+<procedure title="" id="forgot-password-id">
+   <step>On login page, select <b>Forgot Password</b></step> 
+   <img src="auth_forgot_password.png" alt="Alt text" width="300" thumbnail="true"/>
+   <step>Key-in email and select <b>Reset Password</b></step> 
+   <img src="auth_forgot_password_.png" alt="Alt text" width="300" thumbnail="true"/>
+   <step>Check email and use the new temporary password to login</step> 
+   <img src="auth_forgot_password_2.png" alt="Alt text" width="300" thumbnail="true"/>
+</procedure>
+
 ## Password Rules
 
 To ensure account security, passwords must adhere to the following rules:

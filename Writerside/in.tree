@@ -33,7 +33,7 @@
                         <toc-element topic="Updating-customer.md"/>
                     </toc-element>
                     <toc-element topic="User-Management.md">
-                        <toc-element topic="Adding new user.md"/>
+                        <toc-element topic="Adding-new-user.md"/>
                         <toc-element topic="Updating-user.md"/>
                     </toc-element>
                 </toc-element>

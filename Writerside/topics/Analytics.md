@@ -4,6 +4,7 @@
 TODO finalize widgets and tabs widgets, explanation
 
 <b>All</b> tab shows all available analytics widgets. Select tab to show only specific category.
+
 ![analytics_all.png](analytics_all.png) { width="900" thumbnail="true"}
 
 <tabs>

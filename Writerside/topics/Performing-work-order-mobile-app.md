@@ -1,3 +1,3 @@
-# Performing work order (mobile app) 📱
+# Performing work order 📱
 
 Start typing here...

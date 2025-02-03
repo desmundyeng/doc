@@ -1,6 +1,11 @@
 # Updating group
 
 ### Updating group information
-Tap on a group to edit group's name and description
 
-![group_update.png](group_update.png) {thumbnail="true"}
+<procedure>
+<step>Select a group</step>
+<step>Update <b>Group Name</b>, <b>Group Description</b>, <b>Active</b></step>
+<step>Click <b>Update Group</b></step>
+<note>An inactive group will not show for users assigned to the group.</note>
+   <img src="group_update.png" alt="Alt text" width="900" thumbnail="true"/>
+</procedure>

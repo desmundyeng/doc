@@ -5,7 +5,13 @@ TODO Add explanation, anomaly, customer, work order
 
 ### Meter List
 
+> Sorted in descending order by Updated Date.
+
 ![meters.png](meters.png){ width="900" thumbnail="true"}
+
+
+### Available columns
+![meters_cols.png](meters_cols.png) {thumbnail="true"}
 
 ### Meter Details
 
@@ -37,17 +43,17 @@ TODO Add explanation, anomaly, customer, work order
   </tab>
   <tab id="anomaly-id" title="Anomaly">
     <procedure>
-        <secondary-label ref="TODO"/>
+        <img src="meter_details_anomaly.png" alt="Meter Details Anomaly" width="900" thumbnail="true" />
     </procedure>
   </tab>
   <tab id="customer-id" title="Customer">
     <procedure>
-<secondary-label ref="TODO"/>
+        <img src="meter_details_customer.png" alt="Meter Details Customer" width="900" thumbnail="true" />
     </procedure>
   </tab>
   <tab id="workorder-id" title="Work Order">
     <procedure>
-<secondary-label ref="TODO"/>
+        <img src="meter_details_workorder.png" alt="Meter Details Work Order" width="900" thumbnail="true" />
     </procedure>
   </tab>
 </tabs>

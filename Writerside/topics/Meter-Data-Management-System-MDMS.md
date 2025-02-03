@@ -1,4 +1,4 @@
-# Meter Data Management System (MDMS)
+# MDMS (Meter Data Management System)
 
 Meter Data Management System (MDMS) is a software platform that collects, processes, stores, and manages data generated
 by smart meters in utility networks.

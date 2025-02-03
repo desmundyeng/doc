@@ -1,6 +1,10 @@
 # Updating user
 
 ### Updating user's information
-Tap on a user to edit users' information, groups and roles.
 
-![user_update.png](user_update.png) {thumbnail="true"}
+<procedure title="Updating customer" id="create-form-id">
+   <step>Click on a user to edit user's information, groups and roles.</step>
+<step>Click <b>Update User</b></step>
+   <img src="user_update.png" alt="Alt text" width="900" thumbnail="true"/>
+</procedure>
+

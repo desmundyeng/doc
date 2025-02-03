@@ -15,6 +15,8 @@ Shows all past and current work orders.
 <img src="wo_cols.png" alt="Alt text" width="300" thumbnail="true"/>
 
 ### Work Order Detail
-<img src="wo_view_2.png" alt="Alt text" width="900" thumbnail="true"/>
-<img src="wo_view_approve.png" alt="Alt text" width="900" thumbnail="true"/>
+
+<img src="wo_view_2.png" alt="Alt text" width="900" thumbnail="true"/>  
+
+<img src="wo_view_approve.png" alt="Alt text" width="900" thumbnail="true"/>  
 

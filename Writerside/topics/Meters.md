@@ -1,9 +1,8 @@
 # Meters
 
-<secondary-label ref="TODO"/>
-TODO Add explanation, anomaly, customer, work order
-
 ### Meter List
+
+Shows overview of meter information e.g. Reading, Alarms, Statuses, etc.
 
 > Sorted in descending order by Updated Date.
 

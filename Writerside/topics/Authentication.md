@@ -5,22 +5,26 @@ data and features.
 
 ## Login Options
 
-The system supports the following login options:
+The system supports 2 login options: using <b>Password</b> and <b>OTP</b>
+
+<note>
+<b>Login with Password</b> is selected by default
+</note>
 
 <tabs>
-<tab title="Password-Based Login" id="tab-password-login-id">
-<procedure title="Password-Based Login" id="password-login-id">
+<tab title="Login with Password" id="tab-password-login-id">
+<procedure title="Login with Password" id="password-login-id">
    <p>
 Users can log in using their registered email along with a secure password. When a <a href="User-Management.md">user
 is created</a>, the user will receive an e-mail with a random secure password and link to the portal.</p>
-   <step>Select <b>Login with OTP</b></step>
+   <step>Select <b>Login with Password</b></step>
    <img src="password-based-login.png" alt="Alt text" width="300" thumbnail="true"/>
 </procedure>
 </tab>
 
 
-<tab title="OTP-Based Login" id="tab-otp-login-id">
-<procedure title="OTP-Based Login" id="otp-login-id">
+<tab title="Login with OTP" id="tab-otp-login-id">
+<procedure title="Login with OTP" id="otp-login-id">
    <p>
    An alternative to password-based login, this option uses a One-Time Password (OTP). The OTP is sent to the user's
    email and must be entered to authenticate successfully. To use OTP-Based Login, </p>
@@ -37,7 +41,9 @@ is created</a>, the user will receive an e-mail with a random secure password an
 </tabs>
 
 ## Change password
-
+<note>
+<p>Change Password is only available after logging in.</p>
+</note>
 <procedure title="" id="change-password-id">
    <step>Tap on <b>Profile icon</b></step> 
    <img src="auth_change_password.png" alt="Alt text" thumbnail="true"/>

@@ -1,5 +1,5 @@
 # System Architecture
-<img src="MDMS-system-architecture.png" alt="Alt text" width="900" thumbnail="true"/>
+<img src="High-level architecture-v2.png" alt="Alt text" width="900" thumbnail="true"/>
 
 ### Key Components
 

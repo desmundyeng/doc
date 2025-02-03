@@ -9,12 +9,15 @@
     <toc-element topic="AMRAMISolution.md"/>
     <toc-element topic="Water-Meters.md"/>
     <toc-element topic="SisBA.md">
+        <toc-element topic="HES-vs-MDMS.md"/>
         <toc-element topic="Head-End-System-HES.md"/>
         <toc-element topic="Meter-Data-Management-System-MDMS.md">
             <toc-element topic="System-Architecture.md"/>
             <toc-element topic="Features.md">
                 <toc-element topic="Authentication.md"/>
-                <toc-element topic="Dashboard.md"/>
+                <toc-element topic="Dashboard.md">
+                    <toc-element topic="Customizing-dashboard.md"/>
+                </toc-element>
                 <toc-element topic="Meters.md"/>
                 <toc-element topic="Analytics.md"/>
                 <toc-element topic="Anomalies.md"/>

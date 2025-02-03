@@ -1,3 +1,3 @@
-# Head-End System (HES)
+# HES (Head-End System)
 
 Start typing here...

@@ -3,7 +3,7 @@
 ### Creating a new user
 
 <procedure>
-<step>Click on <b>Add User</b> </step>
+<step>Click <b>Add User</b> </step>
 <step>Fill-in user information, groups and roles</step>
 <step>Click <b>Add User</b></step>
 <note>

@@ -1,3 +1,3 @@
-# OneTouch App
+# Field Diagnostic App
 
 Start typing here...

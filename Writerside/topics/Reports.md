@@ -1,6 +1,6 @@
 # Reports
 
-<img src="reports.png" alt="Alt text" width="900" thumbnail="true"/>
+<img src="reports_preview.png" alt="Alt text" width="900" thumbnail="true"/>
 
 # Report Types and Available Columns
 

@@ -1,4 +1,4 @@
-# Integration
+# System Integration
 
 This diagram presents three deployment and integration options for SisBA solution, highlighting the relationship between
 meters, the Head-End System (HES), the Meter Data Management System (MDMS), and third-party components.

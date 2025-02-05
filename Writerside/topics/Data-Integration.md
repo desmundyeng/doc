@@ -1,5 +1,15 @@
 # Data Integration
 
+### High-level architecture of ETL Process from HES to MDMS
+
+```mermaid
+graph LR;
+A[Sync Engine] -->|Pull| B[HES Demo]
+A -->|Pull| C[HES UIA]
+B -->|Push| MDMS;
+C -->|Push| MDMS;
+```
+
 ### ETL Process from HES to MDMS
 
 ```mermaid

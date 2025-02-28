@@ -2,6 +2,8 @@
 
 ### High-level architecture of ETL Process from HES to MDMS
 
+![SisBA Data Flow.drawio.png](SisBA Data Flow.drawio.png)
+
 ```mermaid
 graph LR;
 A[Sync Engine] -->|Pull| B[HES Demo]

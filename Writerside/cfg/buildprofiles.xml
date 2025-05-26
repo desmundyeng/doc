@@ -24,5 +24,10 @@
             <link href="https://georgekent.net">Blog</link>
         </footer>
     </build-profile>
+    <build-profile instance="m">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>

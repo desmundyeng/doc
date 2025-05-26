@@ -18,6 +18,13 @@
                 <toc-element topic="System-Architecture.md"/>
                 <toc-element topic="Features.md">
                     <toc-element topic="Authentication.md"/>
+                    <toc-element topic="Suggested-User-Roles.md">
+                        <toc-element topic="Analyst.md"/>
+                        <toc-element topic="Utility.md"/>
+                        <toc-element topic="Project-Manager.md"/>
+                        <toc-element topic="Admin.md"/>
+                        <toc-element topic="Viewer.md"/>
+                    </toc-element>
                     <toc-element topic="Dashboard.md">
                         <toc-element topic="Customizing-dashboard.md"/>
                     </toc-element>

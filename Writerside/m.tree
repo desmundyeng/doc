@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="m"
+                 name="MDMS"
+                 start-page="Meter-Data-Management-System-MDMS.md">
+
+    <toc-element topic="Meter-Data-Management-System-MDMS.md">
+        <toc-element topic="System-Architecture.md"/>
+        <toc-element topic="Features.md">
+            <toc-element topic="Authentication.md"/>
+            <toc-element topic="Suggested-User-Roles.md">
+                <toc-element topic="Analyst.md"/>
+                <toc-element topic="Utility.md"/>
+                <toc-element topic="Project-Manager.md"/>
+                <toc-element topic="Admin.md"/>
+                <toc-element topic="Viewer.md"/>
+            </toc-element>
+            <toc-element topic="Dashboard.md">
+                <toc-element topic="Customizing-dashboard.md"/>
+            </toc-element>
+            <toc-element topic="Meters.md"/>
+            <toc-element topic="Analytics.md"/>
+            <toc-element topic="Anomalies.md"/>
+            <toc-element topic="Reports.md"/>
+            <toc-element topic="Work-Order-Management.md">
+                <toc-element topic="Creating-work-order.md"/>
+                <toc-element topic="Reviewing-work-order.md"/>
+            </toc-element>
+            <toc-element topic="Account-Management.md">
+                <toc-element topic="Group-Management.md">
+                    <toc-element topic="Creating-group.md"/>
+                    <toc-element topic="Updating-group.md"/>
+                </toc-element>
+                <toc-element topic="Customer-Management.md">
+                    <toc-element topic="Adding-new-customer.md"/>
+                    <toc-element topic="Updating-customer.md"/>
+                </toc-element>
+                <toc-element topic="User-Management.md">
+                    <toc-element topic="Adding-new-user.md"/>
+                    <toc-element topic="Updating-user.md"/>
+                </toc-element>
+            </toc-element>
+        </toc-element>
+    </toc-element>
+
+</instance-profile>

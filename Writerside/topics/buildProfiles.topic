@@ -1,0 +1,6 @@
+<buildProfiles>
+    <profile name="ExportTopicX">
+        <includeTopics>
+            <topic id="my.topic.id" />
+        </includeTopics>
+    </profile>

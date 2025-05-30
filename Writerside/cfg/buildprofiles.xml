@@ -12,9 +12,9 @@
             <custom-favicons>favicon.png</custom-favicons>
 
             <noindex-content>true</noindex-content>
-            <algolia-id>5N7B1KHAO7</algolia-id>
+            <algolia-id>CQSN8JAZBA</algolia-id>
             <algolia-index>prod_doc</algolia-index>
-            <algolia-api-key>4aaf11624d82471c5cb1f6d42d04336a</algolia-api-key>
+            <algolia-api-key>de8a8cd166dffb674663bb2fc0864dc0</algolia-api-key>
             <algolia-show-logo>true</algolia-show-logo>
         </variables>
 

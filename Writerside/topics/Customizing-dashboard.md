@@ -13,7 +13,8 @@ This video will show how to
 
 ### Customizing dashboard video guide
 
-<video src="dashboard.mp4" preview-src="dashboard_preview.png"/>
+[//]: # (<video src="dashboard.mp4" preview-src="dashboard_preview.png"/>)
+Temporarily unavailable.
 
 ### Available widgets
 

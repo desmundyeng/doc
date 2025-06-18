@@ -1,3 +1,3 @@
 # R&amp;R Seremban
 
-Start typing here...
+![R&R System Design.drawio (1).png](R&R System Design.drawio (1).png)
